@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     direction LR
 
@@ -37,3 +38,4 @@ classDiagram
     ReprodutorMusical <|.. IPhone
     AparelhoTelefonico <|.. IPhone
     NavegadorInternet <|.. IPhone
+```
